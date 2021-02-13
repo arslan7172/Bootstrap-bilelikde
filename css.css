@@ -1,0 +1,106 @@
+body {
+  font-family: 'Spartan', sans-serif;
+}
+#ilkinji{
+  background-color: #9ba4b4;
+}
+.bilelikde{
+  font-family: 'MuseoModerno', cursive;
+  font-size: 3rem;
+}
+.phrase{
+  color: #eeeeee;
+  font-size: 3.7rem;
+  line-height: 1.5;
+  margin-top: 15%;
+  padding: 1% 0% 0% 0%;
+}
+.container-fluid{
+  padding: 2% 10% 2% 10%;
+}
+.surat1{
+    background-color : #9ba4b4;
+}
+.nav-item{
+  padding: 5px 18px;
+}
+
+
+#ikinji{
+  background-color: #e8e8e8;
+  color: #495464;
+}
+.is-ucin{
+  font-family: 'Spartan-bolder', sans-serif;
+  font-size: 4rem;
+  text-align: center;
+  padding: 1% 0% 1% 0%
+}
+.card-body{
+  text-align: center;
+}
+.hr1{
+  color: #495464;
+}
+.maksat1{
+  padding: 8% 3% 5% 3%;
+}
+#owrenmek{
+  background-color: #9ba4b4;
+  color: #eeeeee;
+}
+.hr2{
+  color: #eeeeee;
+}
+#goldaw{
+  background-color:#e8e8e8;
+  color: #495464;
+  padding: 1% 3% 1% 3%;
+  text-align: center;
+}
+.goldaw-surat{
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.uly-logo{
+  width: 12%;
+  height: 12%;
+}
+#gecis{
+  height: 400px;
+}
+
+#pul{
+  background-color: #9aceff;
+}
+#biz{
+  background-color: #9ba4b4;
+  color: #eeeeee;
+  text-align: center;
+}
+.biz-hakynda{
+  font-size: 5rem;
+  padding: 2% 0% 2% 0%;
+  font-weight: normal;
+}
+.esasy-maksat{
+  font-size: 1.2rem;
+  margin: 1% 12% 2% 12%;
+}
+.bizdaki{
+  font-size: 1.2rem;
+}
+.netijeler{
+  padding-top: 8%;
+}
+#baglan{
+  background-color: #e8e8e8;
+  color: #495464;
+}
+.kopy{
+  text-align: center;
+}
+.sosyal{
+  margin: 10px 15px 15px 15px;
+}
